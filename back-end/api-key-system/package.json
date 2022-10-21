@@ -1,0 +1,25 @@
+{
+  "name": "api-key-system",
+  "version": "1.0.0",
+  "description": "application with a cart system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "create",
+    "get",
+    "update",
+    "delete",
+    "api",
+    "key"
+  ],
+  "author": "kwanele shelembe",
+  "license": "ISC",
+  "dependencies": {
+        "express": "^4.18.1",
+        "nodemon": "^1.3.3"
+  }
+}

@@ -1,0 +1,12 @@
+#todo-add{
+  max-width: 25em;
+}
+
+.todo{
+  background: white;
+  opacity: 1;
+  cursor: move;
+  border-width: 3px;
+  transition: 1s;
+}
+

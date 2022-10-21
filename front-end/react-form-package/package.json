@@ -1,0 +1,15 @@
+{
+  "name": "react-form-package",
+  "version": "1.0.0",
+  "description": "form component library",
+  "main": "index.js",
+  "scripts": {
+  
+  },
+  "author": " <kwaneleshelembe841@gmail.com>",
+  "license": "ISC",
+  "peerDependencies":{
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
